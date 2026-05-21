@@ -1,0 +1,10 @@
+==================================================
+OSPF CONVERGENCE TEST SUMMARY
+==================================================
+Link tested:       core ↔ dist1
+Convergence time:  3826.5ms
+First fail detect: 313.0ms
+OSPF recovery:     3513.0ms
+Link restored OK:  Yes
+
+Note: OSPF dead-interval=40s bình thường → dùng BFD để <1s
